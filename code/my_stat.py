@@ -1,0 +1,11 @@
+dfs_time = 0
+bminere_time = 0
+bminerg_time = 0
+other_time = 0
+result = 'safe'
+dfs_rounds = 0
+bminere_rounds = 0
+bminerg_rounds = 0
+time_out = 0
+flag = 'safe'
+incomplete_time = 0
